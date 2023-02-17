@@ -1,4 +1,4 @@
-# mvc_awi
+# Modelo MVC
 
 Modelo representación de datos: El modelo de representación de datos se refiere a la forma en que se estructuran y organizan los datos en un sistema informático para su almacenamiento, procesamiento y recuperación. La elección del modelo de representación de datos dependerá de la naturaleza de los datos y las necesidades de la aplicación.
 
